@@ -1,0 +1,28 @@
+{
+  "name": "knex-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hona-08/knex-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hona-08/knex-crud/issues"
+  },
+  "homepage": "https://github.com/Hona-08/knex-crud#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^2.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
